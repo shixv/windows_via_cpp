@@ -1,0 +1,7 @@
+﻿  ProcessInfo.cpp
+c:\users\shixu\source\repos\shixv\windows_via_cpp\04-processinfo\processinfo.cpp(346): warning C4456: “fOk”的声明隐藏了上一个本地声明
+  c:\users\shixu\source\repos\shixv\windows_via_cpp\04-processinfo\processinfo.cpp(341): note: 参见“fOk”的声明
+c:\users\shixu\source\repos\shixv\windows_via_cpp\04-processinfo\processinfo.cpp(815): warning C4456: “fOk”的声明隐藏了上一个本地声明
+  c:\users\shixu\source\repos\shixv\windows_via_cpp\04-processinfo\processinfo.cpp(806): note: 参见“fOk”的声明
+  04-ProcessInfo.vcxproj -> C:\Users\shixu\Source\Repos\shixv\windows_via_cpp\Debug\04-ProcessInfo.exe
+  04-ProcessInfo.vcxproj -> C:\Users\shixu\Source\Repos\shixv\windows_via_cpp\Debug\04-ProcessInfo.pdb (Full PDB)
